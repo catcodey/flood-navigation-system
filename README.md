@@ -1,4 +1,3 @@
-# flood-navigation-system
+# Flood-Free Routte Identification and Optimization Using Satellite Imagery and Machine Learning
 
-# FLOOD-FREE ROUTE INDENTIFICATION AND OPTIMIZATION USING SATELLITE IMAGERY AND MACHINE LEARNING
 # This is a flood navigation system built using the concept of segmentation on satellite imagery 
