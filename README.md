@@ -36,7 +36,7 @@ The goal is to create a map-like visualiation where we identify  as many low lyi
   - cd src
   - the above 2 cmds will navigate u to the App.js directory
   - npm start
--Thats it!
+- Thats it!
 
 **NOTE: You execute the uvicorn and npm start commands ONLY inside the directories of the main.py and app.js files in seperate terminals. Otherwise it will not work. Thats what those cd cmds are for.**
 
