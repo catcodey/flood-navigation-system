@@ -30,8 +30,8 @@ The goal is to create a map-like visualiation where we identify  as many low lyi
 - After this open 2 seperate terminals in vs code. Activate the venvs in these 2 terminals.  
 - Type the foll cmds in the first terminal. 
     - cd backend (navigating to main.py directory)
-    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload    
--Type the foll cmds in the 2nd terminal
+    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+- Type the foll cmds in the 2nd terminal
   - cd frontend
   - cd src
   - the above 2 cmds will navigate u to the App.js directory
