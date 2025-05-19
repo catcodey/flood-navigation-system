@@ -27,10 +27,10 @@ The goal is to create a map-like visualiation where we identify  as many low lyi
 - activate the venv using the foll cmd
    - source .3.11venv/bin/activate
 - run the requirements.txt in this venv.
-- After this open 2 seperate terminals in vs code. Activate the venvs in these 2 terminals.
+- After this open 2 seperate terminals in vs code. Activate the venvs in these 2 terminals.  
 - Type the foll cmds in the first terminal. 
     - cd backend (navigating to main.py directory)
-    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload  
+    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload    
 -Type the foll cmds in the 2nd terminal
   - cd frontend
   - cd src
