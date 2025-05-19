@@ -30,7 +30,7 @@ The goal is to create a map-like visualiation where we identify  as many low lyi
 - After this open 2 seperate terminals in vs code. Activate the venvs in these 2 terminals.
 - Type the foll cmds in the first terminal. 
     - cd backend (navigating to main.py directory)
-    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    - uvicorn main:app --host 0.0.0.0 --port 8000 --reload  
 -Type the foll cmds in the 2nd terminal
   - cd frontend
   - cd src
@@ -38,5 +38,5 @@ The goal is to create a map-like visualiation where we identify  as many low lyi
   - npm start
 -Thats it!
 
-NOTE: The uvicorn and npm start commands wont work UNLESS u go to the directory where the main.py and app.js files are present, and execute them. Thats what the cd commands are for. You execute these 2 cmds only inside the directories of the main.py and app.js files in seperate terminals.
+**NOTE: You execute the uvicorn and npm start commands ONLY inside the directories of the main.py and app.js files in seperate terminals. Otherwise it will not work. Thats what those cd cmds are for.**
 
